@@ -1,0 +1,47 @@
+    1  cd e:
+    2  ls
+    3  vi profile.txt
+    4  vi profile.txt
+    5  cat profile.txt
+    6  pwd
+    7  ls
+    8  pwd
+    9  ls
+   10  rmdir GIST
+   11  LS
+   12  rm demo.txt
+   13  ls
+   14  rm ile{1..10}.txt
+   15  rm file{1..10}.txt
+   16  ls
+   17  rf file{50..100}.txt
+   18  rm file{50..100}.txt
+   19  ls
+   20  rm clanguage {50..100}.txt
+   21  rm *.txt
+   22  ls
+   23  rm clanguage{50..100}.cpp
+   24  rm *.py
+   25  ls
+   26  rm clanguage{50..70}.txt
+   27  rm clanguage{50..70}.cpp
+   28  nano myfile.txt
+   29  cat myfile.txt
+   30  nano myfile.txt
+   31  cat myfile.txt
+   32  echo "hello">> myfile2.txt
+   33  cat myfil2.txt
+   34  cat myfile2.txt
+   35  echo{1..1000} >> myfile3.txt
+   36  echo {1..1000} >> myfile3.txt
+   37  cat myfile3.txt
+   38  mv myfile3.txt myfile2.txt
+   39  cat myfile2.txt
+   40  ls
+   41  cp myfile2.txt myfile.txt
+   42  cat myfile.txt
+   43  ls
+   44  rm *.cpp
+   45  ls
+   46  history
+   47  history >> history.txt
